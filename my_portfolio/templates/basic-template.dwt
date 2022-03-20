@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<title>Diego's Corner</title>
+		<!-- TemplateEndEditable -->
+		<link href="../assets/style.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://use.typekit.net/tui6jfw.css">
+		<!-- TemplateBeginEditable name="head" -->
+		<style type="text/css">
+			main, aside {
+				height: 600px;
+			}
+		</style>
+		<!-- TemplateEndEditable -->
+	</head>
+	<body>
+		<div id="container">
+			<header></header>
+			<nav>
+				<ul>
+					<li><a href="../pages/about.html">ABOUT</a></li>
+					<li><a href="../pages/blog.html">BLOG</a></li>
+					<li><a href="../pages/gallery.html">GALLERY</a></li>
+					<li><a href="../pages/contact.html">CONTACT</a></li>
+				</ul>
+			</nav>
+			<aside>
+				<p>Riddle of the day:</p>
+				<p>What five-letter word becomes shorter when you add two letters to it?</p>
+				<p>Short!</p>
+				<p>&nbsp;</p>
+				<p>Fact of the day:</p>
+				<p>Hawaiian pizza was created in Ontario, Canada, by Greek immigrant Sam Panopoulos in 1962.</p>
+			</aside>
+			<!-- TemplateBeginEditable name="main" -->
+			<main>
+				<h1>Placeholder</h1>
+			</main>
+			<!-- TemplateEndEditable -->
+			<footer>Copyright © 2022 Diego Branciforte</footer>
+		</div>
+	</body>
+</html>
